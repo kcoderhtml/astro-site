@@ -13,7 +13,7 @@
     "@astrojs/rss": "^4.0.7",
     "@astrojs/sitemap": "^3.1.6",
     "@astrojs/svelte": "5.7.0",
-    "astro": "4.13.1",
+    "astro": "4.13.2",
     "reading-time": "^1.5.0",
     "svelte": "^4.2.18",
     "typescript": "^5.5.2",
